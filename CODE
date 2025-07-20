@@ -1,0 +1,5 @@
+SELECT AVG (price) AS avg_price from games
+WHERE price > 0;
+
+"avg"
+8.922689670998388
